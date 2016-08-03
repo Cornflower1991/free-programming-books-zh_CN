@@ -117,6 +117,7 @@
 
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+* [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 
 ### 函数式概念
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
@@ -253,6 +254,7 @@
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+* [教你成为全栈工程师](https://github.com/warmheartli/FullStackDeveloperCourse)
 
 ### 大数据
 
@@ -261,6 +263,7 @@
 * [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
+* [机器学习精简入门教程](https://github.com/warmheartli/MachineLearningCourse)
 
 ## 编程艺术
 
@@ -289,6 +292,7 @@
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Android Studio 中文教程（前六章）](https://www.gitbook.com/book/wizardforcel/learn-android-studio/details)
 
 ### APP
 
